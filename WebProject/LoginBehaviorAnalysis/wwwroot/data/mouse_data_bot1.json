@@ -1,0 +1,22 @@
+[
+  {
+    "UserId": "user123",
+    "Events": [
+      {
+        "Timestamp": 1780715992675,
+        "Type": "mousemove",
+        "X": 640.0,
+        "Y": 359.0,
+        "Speed": 7.579114732302965,
+        "Acceleration": 0.07813520342580375,
+        "Velocity": 735.1741290333875,
+        "Correction": true,
+        "AccelerationDetected": false,
+        "DecelerationDetected": false,
+        "IdleTime": 97,
+        "Button": ""
+      }
+    ],
+    "Label": 0
+  }
+]

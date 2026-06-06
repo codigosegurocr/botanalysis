@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\models\\mousedatarequestmodsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:models\\mousedatarequestmodsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\wwwroot\\js\\modelosvm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:wwwroot\\js\\modelosvm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:views\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\wwwroot\\js\\modelorf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:wwwroot\\js\\modelorf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\wwwroot\\js\\modelo1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:wwwroot\\js\\modelo1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\models\\mousedatarequestrf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:models\\mousedatarequestrf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\models\\mousedatarequestmod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:models\\mousedatarequestmod1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:wwwroot\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|e:\\biblioteca\\cursos\\apicurso\\loginbehavioranalysis\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{388EFEB6-9419-443C-B7AB-E06835900925}|LoginBehaviorAnalysis.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1798866506:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1862061956:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1869154607:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1653791162:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1374600851:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1474749077:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModeloSVM.js",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\ModeloSVM.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ModeloSVM.js",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\ModeloSVM.js",
+              "RelativeToolTip": "wwwroot\\js\\ModeloSVM.js",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAgwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-25T08:17:55.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T13:51:49.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MouseDataRequestModSVM.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestModSVM.cs",
+              "RelativeDocumentMoniker": "Models\\MouseDataRequestModSVM.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestModSVM.cs",
+              "RelativeToolTip": "Models\\MouseDataRequestModSVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:59:04.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modelo1.js",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\Modelo1.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Modelo1.js",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\Modelo1.js",
+              "RelativeToolTip": "wwwroot\\js\\Modelo1.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-25T08:14:39.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAowGQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T00:20:45.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MouseDataRequestRF.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestRF.cs",
+              "RelativeDocumentMoniker": "Models\\MouseDataRequestRF.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestRF.cs",
+              "RelativeToolTip": "Models\\MouseDataRequestRF.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T08:28:16.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Views\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Views\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:26:01.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModeloRF.js",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\ModeloRF.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\ModeloRF.js",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\ModeloRF.js",
+              "RelativeToolTip": "wwwroot\\js\\ModeloRF.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-25T08:23:27.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:55:26.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseDataRequestMod1.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestMod1.cs",
+              "RelativeDocumentMoniker": "Models\\MouseDataRequestMod1.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Models\\MouseDataRequestMod1.cs",
+              "RelativeToolTip": "Models\\MouseDataRequestMod1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T20:58:58.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T13:56:28.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.js",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\Login.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Login.js",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\Login.js",
+              "RelativeToolTip": "wwwroot\\js\\Login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-04T03:56:00.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "E:\\Biblioteca\\Cursos\\ApiCurso\\LoginBehaviorAnalysis\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-19T23:11:34.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
